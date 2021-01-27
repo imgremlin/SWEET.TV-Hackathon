@@ -13,6 +13,7 @@
 ## Authors
 * Oleksii Tsepa
 * Andriy Samoshyn
+* Myhaylo Turkin
 
 ## Links
 * [Competition website](https://cinema.wechallenge.it/)
